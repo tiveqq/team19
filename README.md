@@ -28,5 +28,5 @@ Our project, **Use of Artificial Intelligence in Robotics**, aims to develop adv
 
 ## Usage
 
-1. Link:
+1. Link: https://tiveqq.github.io/team19/static/index.html
 
